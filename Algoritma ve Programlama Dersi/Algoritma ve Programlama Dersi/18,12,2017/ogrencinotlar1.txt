@@ -1,0 +1,4 @@
+Ad-Soyad	Sinifi	Nosu	Notu	Durum
+UFuk		11	23	45	Gecti
+Fatih		50	40	60	Gecti
+Furkan		70	60	30	Kaldi
